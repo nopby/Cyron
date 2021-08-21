@@ -1,0 +1,3 @@
+[submodule "Cyron/vendor/spdlog"]
+	path = Cyron/vendor/spdlog
+	url = https://github.com/gabime/spdlog.git
